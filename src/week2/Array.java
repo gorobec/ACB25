@@ -7,7 +7,6 @@ import java.util.Arrays;
  * @since JDK 1.8
  */
 public class Array {
-
     public static void main(String[] args) {
         int[] array = {1, 2, 3, 4, 5};
 
